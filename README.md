@@ -1,2 +1,2 @@
-# baden-living.github.io
+# baden-living
 Website Hosting for baden-living.de
